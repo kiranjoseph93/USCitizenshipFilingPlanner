@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">US Citizenship Filing Planner</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="add_trips">Add trip</string>
+    <string name="previous">Previous</string>
+
+    <string name="check_best_date">Check best date to file</string>
+    <string name="delete_all_trips">Delete all trips</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="start_date">Start date:</string>
+    <string name="end_date">End date:</string>
+    <string name="NA">N/A</string>
+    <string name="select">Select</string>
+    <string name="save">Save</string>
+    <string name="dialog_delete_all_trips">Are you sure you want to delete all trips?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="Confirm">Please confirm</string>
+    <string name="check_days_for_date">Date to check for days</string>
+</resources>
